@@ -1,3 +1,15 @@
+# Add To Cart App
+This App contains following features:
+* product list page
+* added `add to cart` CTA button on each product card.
+* cart page with list of items added to cart by user for purchase.
+* user can update the item quantity or delete items from cart.
+* product details page showing details of particular product id.
+* user can add to cart from product details page or update the quantity of items from detail page.
+
+## Demo link 
+https://abhisheksinghparihar.github.io/addToCart/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
